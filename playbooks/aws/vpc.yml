@@ -1,0 +1,6 @@
+# read vars/networking.yml file create/manage all VPC configurations
+# - vpc
+# - subnets
+# - route tables
+# - elastic ips
+# - nacl
